@@ -1,5 +1,7 @@
 # NERVE — training
 
+**NERVE links:** [models & configs](https://huggingface.co/Phips/NERVE) · [try it online (ZeroGPU)](https://huggingface.co/spaces/Phips/nerve) · [local app](https://github.com/Phhofm/nerve-app) · [train your own (Colab)](https://github.com/Phhofm/nerve-train)
+
 Train your own [NERVE](https://huggingface.co/Phips/NERVE) model.
 
 ## Google Colab (easiest, free GPU)
